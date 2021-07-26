@@ -1,0 +1,15 @@
+1.AI Winters happened mostly due to the lack of understanding behind the theory of neural networks
+
+--------> ans : True
+
+
+2.Most applications that use computer vision, use models that were trained using this discipline:
+
+
+--------> ans : Deep Learning
+
+
+3. In the Machine Learning Workflow, the main goal of the Data Exploration and Preprocessing step is to:
+
+
+--------> ans : Determine how to clean your data such that you can use it to train a model

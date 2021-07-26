@@ -1,0 +1,19 @@
+1. Assume you have a data set that summarizes a marketing campaign with information related to prospective customers. The data set contains 100 observations with several columns that summarize information about the prospective customer. It also has a column that flags whether the prospect responded or not.
+
+In this example, "Yes" or "No" are the possible values of the:
+
+--------> ans :Label
+
+2. Assume you have a data set that summarizes a marketing campaign with information related to prospective customers. The data set contains 100 observations with several columns that summarize information about the prospective customer. It also has a column that flags whether the prospect responded or not.
+
+In this context, observation is a synonym of:
+
+
+--------> ans : Example
+
+3. Assume you have a data set that summarizes a marketing campaign with information related to prospective customers. The data set contains 100 observations with several columns that summarize information about the prospective customer. It also has a column that flags whether the prospect responded or not.
+
+A machine learning model that predicts response, is using the column Responded as a:
+
+
+--------> ans : Target

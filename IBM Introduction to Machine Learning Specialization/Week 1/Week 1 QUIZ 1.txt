@@ -1,0 +1,14 @@
+1. Machine Learning is a subset of Artificial Intelligence.
+
+--------> ans : True
+
+2. Deep Learning is a subset of Machine Learning.
+--------> ans : True
+
+3. Machine Learning consists in programming computers to learn from real-time human interactions
+
+--------> ans : False
+
+4.  Machine Learning is the same as Artificial Intelligence
+
+--------> ans : False
