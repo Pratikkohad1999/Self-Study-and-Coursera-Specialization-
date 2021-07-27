@@ -1,0 +1,19 @@
+1. From the options listed below, select the option that is NOT a valid exploratory data approach to visually confirm whether your data is ready for modeling or if it needs further cleaning or data processing:
+
+--------> ans :  Create a correlation heatmap to confirm the sign and magnitude of correlation across your features.
+
+
+2. These are two of the most common variables for data visualization:
+
+
+
+--------> ans : matplotlib and seaborn
+
+
+
+3. You can use the pandas library to use plots.
+
+
+--------> ans : True
+
+
