@@ -1,0 +1,23 @@
+1. Which statement about the Pandas read_csv function is TRUE?
+
+
+--------> ans :  It can read both tab-delimited and space-delimited data.
+
+2. Which of the following is an example of a file type that uses Javascript Object Notation (JSON) formatting? 
+
+
+--------> ans :  Jupyter/iPython (.ipynb files)
+
+3. The data below appears in 'data.txt', and Pandas has been imported. Which Python command will read it correctly into a Pandas DataFrame? 
+
+63.03 22.55 39.61 40.48 98.67 -0.25 AB
+
+39.06 10.06 25.02 29 114.41 4.56 AB
+
+68.83 22.22 50.09 46.61 105.99 -3.53 AB 
+
+
+--------> ans : pandas.read_csv('data.txt', header=None, sep=' ')
+
+
+ 
