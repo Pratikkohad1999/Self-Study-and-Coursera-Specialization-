@@ -1,0 +1,11 @@
+1. Classification models require that input features be scaled. 
+
+--------> ans :False 
+
+2. Feature scaling allows better interpretation of distance-based approaches. 
+
+--------> ans :True
+
+3. Feature scaling reduces distortions caused by variables with different scales. 
+
+--------> ans :True
