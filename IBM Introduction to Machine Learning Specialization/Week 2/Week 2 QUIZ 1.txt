@@ -1,0 +1,17 @@
+1. In general, the population parameters are unknown
+
+
+--------> ans: True.
+
+
+
+
+2. Parametric models have finite number of parameters.
+
+
+--------> ans: False. 
+
+3. The most common way of estimating parameters in a parametric model is:
+
+
+--------> ans: using the maximum likelihood estimation

@@ -1,0 +1,17 @@
+1. Type of Statistics in which the posterior probability is the updated belief on the probability of an event happening given the prior and the data observed.
+
+
+----------> ANS: Bayesian Statistics
+
+
+
+
+2. On a given hypothesis test, you obtain a p-value of 0.051. This can be interpreted as approaching significance or almost significant.
+
+
+----------> ANS: False
+
+3. When you reject the null hypothesis, then the alternate hypothesis must be true.
+
+
+----------> ANS:  False

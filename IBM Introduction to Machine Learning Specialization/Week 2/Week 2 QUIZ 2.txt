@@ -1,0 +1,19 @@
+1. A p-value is:
+
+----------> ans : the smallest significance level at which the null hypothesis would be rejected
+
+
+2. Type 1 Error 1 is defined as:
+
+----------> ans : Saying the null hypothesis is false, when it is actually true
+
+3. You find through a graph that there is a strong correlation between Net Promoter Score and the visual time that customers spend on a website. Select the TRUE assertion:
+
+----------> ans :
+There is an underlying factor that explains this correlation, but manipulating the time that customers spend on a website may not affect the Net Promoter Score they will give to the company
+
+4.  If you reject the null hypothesis, it means that the alternate hypothesis is true.
+
+----------> ans : False
+
+
