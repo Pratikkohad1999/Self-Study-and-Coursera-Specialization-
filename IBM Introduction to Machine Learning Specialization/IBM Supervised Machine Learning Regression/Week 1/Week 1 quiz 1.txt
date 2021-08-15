@@ -1,0 +1,23 @@
+1. Select the option that is the most INACCURATE regarding the definition of Machine Learning:
+
+---------> ans : Machine Learning is automated and requires no programming
+
+
+
+2. This is the type of Machine Learning that uses both data with labeled outcomes and data without labeled outcomes:
+
+
+---------> ans : Semi-Supervised Machine Learning
+
+
+3. Predicting total revenue, number of customers, and percentage of returning customers are examples of:
+
+---------> ans : regression
+
+4. Predicting payment default, whether a transaction is fraudulent, and whether a customer will be part of the top 5% spenders on a given year, are examples of: 
+
+---------> ans : classification
+
+
+
+
