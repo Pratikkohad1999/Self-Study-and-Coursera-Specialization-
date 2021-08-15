@@ -1,0 +1,21 @@
+1. Which statement about evaluating a Machine Learning model is the most accurate? 
+
+
+-------------> ans : Model estimation involves choosing parameters that minimize the cost function.
+
+2. The unadjusted value from estimating a linear regression model will almost always increase if more features are added.
+
+-------------> ans : True
+
+
+3. The Total Sum of Squares (TSS) can be used to select the best-fitting regression model.
+
+-------------> ans : False
+
+
+4. The Sum of Squared Errors (SSE) can be used to select the best-fitting regression model. 
+
+
+-------------> ans : True
+
+
